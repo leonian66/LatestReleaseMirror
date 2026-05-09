@@ -4,10 +4,11 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
-therealaleph/MasterHttpRelayVPN-RUST
-MHSanaei/3x-ui
-ircfspace/teleMirror
-denuitt1/mhr-cfw
+#therealaleph/MasterHttpRelayVPN-RUST
+#MHSanaei/3x-ui
+#ircfspace/teleMirror
+#denuitt1/mhr-cfw
+2dust/v2rayN|windows
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 #NullLatency/FlowDriver|linux-amd64|darwin-amd64
