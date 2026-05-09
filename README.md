@@ -157,76 +157,20 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="mhsanaei--3x-ui"></div>
+<div id="2dust--v2rayn"></div>
 
-### MHSanaei--3x-ui
+### 2dust--v2rayN
 
-🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v2.9.4</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `x-ui-linux-386.tar.gz` | 66.2 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-386.tar.gz) |
-| `x-ui-linux-amd64.tar.gz` | 67.9 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
-| `x-ui-linux-arm64.tar.gz` | 64.8 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-arm64.tar.gz) |
-| `x-ui-linux-armv5.tar.gz` | 66.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv5.tar.gz) |
-| `x-ui-linux-armv6.tar.gz` | 66.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv6.tar.gz) |
-| `x-ui-linux-armv7.tar.gz` | 66.0 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv7.tar.gz) |
-| `x-ui-linux-s390x.tar.gz` | 67.4 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-s390x.tar.gz) |
-| `x-ui-windows-amd64.zip` | 74.3 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-windows-amd64.zip) |
-
----
-
-<div id="ircfspace--telemirror"></div>
-
-### ircfspace--teleMirror
-
-🔗 [source](https://github.com/ircfspace/teleMirror) – [<code><small>v2.7.1</small></code>](https://github.com/ircfspace/teleMirror/releases/tag/v2.7.1)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `tele-mirror-linux-arm64.tar.gz (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-arm64.tar.gz.001) |
-| `tele-mirror-linux-arm64.tar.gz (part 2 of 2)` | 22.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-arm64.tar.gz.002) |
-| `tele-mirror-linux-x64.tar.gz (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-x64.tar.gz.001) |
-| `tele-mirror-linux-x64.tar.gz (part 2 of 2)` | 22.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-x64.tar.gz.002) |
-| `tele-mirror-mac-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.dmg.001) |
-| `tele-mirror-mac-arm64.dmg (part 2 of 2)` | 13.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.dmg.002) |
-| `tele-mirror-mac-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.zip.001) |
-| `tele-mirror-mac-arm64.zip (part 2 of 2)` | 20.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.zip.002) |
-| `tele-mirror-mac-x64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.dmg.001) |
-| `tele-mirror-mac-x64.dmg (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.dmg.002) |
-| `tele-mirror-mac-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.zip.001) |
-| `tele-mirror-mac-x64.zip (part 2 of 2)` | 25.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.zip.002) |
-| `tele-mirror-win-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.001) |
-| `tele-mirror-win-arm64.zip (part 2 of 2)` | 44.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.002) |
-| `tele-mirror-win-ia32.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.001) |
-| `tele-mirror-win-ia32.zip (part 2 of 2)` | 27.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.002) |
-| `tele-mirror-win-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.001) |
-| `tele-mirror-win-x64.zip (part 2 of 2)` | 51.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.002) |
-
----
-
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
-
-### therealaleph--MasterHttpRelayVPN-RUST
-
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
-
-| File | Size | Download |
-|------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.18.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.18.apk) |
-| `mhrv-rs-android-universal-v1.9.18.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.18.apk) |
-| `mhrv-rs-android-x86-v1.9.18.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.18.apk) |
-| `mhrv-rs-android-x86_64-v1.9.18.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.18.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 53.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
+| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 13.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
+| `v2rayN-windows-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.001) |
+| `v2rayN-windows-arm64.zip (part 2 of 2)` | 43.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
 <!-- RELEASES_END -->
