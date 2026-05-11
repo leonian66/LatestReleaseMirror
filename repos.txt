@@ -10,7 +10,7 @@
 #denuitt1/mhr-cfw
 2dust/v2rayN
 iampedii/WhiteDNS
-CrealityOfficial/CrealityPrint
+#CrealityOfficial/CrealityPrint
 
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
