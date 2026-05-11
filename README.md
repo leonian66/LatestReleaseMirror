@@ -165,6 +165,23 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
+| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
+| `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
+| `v2rayN-linux-64.zip (part 2 of 2)` | 22.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
+| `v2rayN-linux-arm64.deb` | 62.4 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
+| `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
+| `v2rayN-linux-arm64.zip (part 2 of 2)` | 16.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
+| `v2rayN-linux-rhel-64.rpm` | 76.5 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
+| `v2rayN-linux-rhel-arm64.rpm` | 71.7 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
+| `v2rayN-linux-rhel-riscv64.rpm` | 72.6 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+| `v2rayN-macos-64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.001) |
+| `v2rayN-macos-64.dmg (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
+| `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
+| `v2rayN-macos-64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
+| `v2rayN-macos-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.001) |
+| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 15.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
+| `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
+| `v2rayN-macos-arm64.zip (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
 | `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
@@ -176,43 +193,24 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="mhsanaei--3x-ui"></div>
-
-### MHSanaei--3x-ui
-
-🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v2.9.4</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `x-ui-linux-386.tar.gz` | 66.2 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-386.tar.gz) |
-| `x-ui-linux-amd64.tar.gz` | 67.9 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
-| `x-ui-linux-arm64.tar.gz` | 64.8 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-arm64.tar.gz) |
-| `x-ui-linux-armv5.tar.gz` | 66.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv5.tar.gz) |
-| `x-ui-linux-armv6.tar.gz` | 66.1 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv6.tar.gz) |
-| `x-ui-linux-armv7.tar.gz` | 66.0 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-armv7.tar.gz) |
-| `x-ui-linux-s390x.tar.gz` | 67.4 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-linux-s390x.tar.gz) |
-| `x-ui-windows-amd64.zip` | 74.3 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-windows-amd64.zip) |
-
----
-
 <div id="iampedii--whitedns"></div>
 
 ### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.0.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.0.0)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.1.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
-| `WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md) |
-| `WhiteDNS-1.0.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk) |
-| `WhiteDNS-1.0.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk.idsig) |
-| `WhiteDNS-1.0.0-armeabi-v7a.apk` | 4.8 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk) |
-| `WhiteDNS-1.0.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk.idsig) |
-| `WhiteDNS-1.0.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk) |
-| `WhiteDNS-1.0.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk.idsig) |
-| `WhiteDNS-1.0.0-x86.apk` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk) |
-| `WhiteDNS-1.0.0-x86.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk.idsig) |
-| `WhiteDNS-1.0.0-x86_64.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk) |
-| `WhiteDNS-1.0.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk.idsig) |
+| `WhiteDNS-1.1.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.1.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk) |
+| `WhiteDNS-1.1.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.1.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.1.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.1.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk) |
+| `WhiteDNS-1.1.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk.idsig) |
+| `WhiteDNS-1.1.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk) |
+| `WhiteDNS-1.1.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk.idsig) |
+| `WhiteDNS-1.1.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk) |
+| `WhiteDNS-1.1.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk.idsig) |
 <!-- RELEASES_END -->
