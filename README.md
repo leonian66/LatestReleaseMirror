@@ -157,60 +157,20 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
+<div id="crealityofficial--crealityprint"></div>
 
-### 2dust--v2rayN
+### CrealityOfficial--CrealityPrint
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
-| `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
-| `v2rayN-linux-64.zip (part 2 of 2)` | 22.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
-| `v2rayN-linux-arm64.deb` | 62.4 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
-| `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
-| `v2rayN-linux-arm64.zip (part 2 of 2)` | 16.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
-| `v2rayN-linux-rhel-64.rpm` | 76.5 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
-| `v2rayN-linux-rhel-arm64.rpm` | 71.7 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
-| `v2rayN-linux-rhel-riscv64.rpm` | 72.6 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
-| `v2rayN-macos-64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.001) |
-| `v2rayN-macos-64.dmg (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
-| `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
-| `v2rayN-macos-64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
-| `v2rayN-macos-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.001) |
-| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 15.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
-| `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
-| `v2rayN-macos-arm64.zip (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
-| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
-| `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 53.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
-| `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
-| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 13.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
-| `v2rayN-windows-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.001) |
-| `v2rayN-windows-arm64.zip (part 2 of 2)` | 43.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
-
----
-
-<div id="iampedii--whitedns"></div>
-
-### iampedii--WhiteDNS
-
-🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.1.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0)
+🔗 [source](https://github.com/CrealityOfficial/CrealityPrint) – [<code><small>v7.1.0</small></code>](https://github.com/CrealityOfficial/CrealityPrint/releases/tag/v7.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
-| `WhiteDNS-1.1.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-THIRD_PARTY_NOTICES.md) |
-| `WhiteDNS-1.1.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk) |
-| `WhiteDNS-1.1.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk.idsig) |
-| `WhiteDNS-1.1.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk) |
-| `WhiteDNS-1.1.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk.idsig) |
-| `WhiteDNS-1.1.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk) |
-| `WhiteDNS-1.1.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk.idsig) |
-| `WhiteDNS-1.1.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk) |
-| `WhiteDNS-1.1.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk.idsig) |
-| `WhiteDNS-1.1.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk) |
-| `WhiteDNS-1.1.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk.idsig) |
+| `CrealityPrint_7.1.0.4414_Release.exe (part 1 of 4)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_7.1.0.4414_Release.exe.001) |
+| `CrealityPrint_7.1.0.4414_Release.exe (part 2 of 4)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_7.1.0.4414_Release.exe.002) |
+| `CrealityPrint_7.1.0.4414_Release.exe (part 3 of 4)` | 90.0 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_7.1.0.4414_Release.exe.003) |
+| `CrealityPrint_7.1.0.4414_Release.exe (part 4 of 4)` | 20.9 MB | [⬇️ Download (Part 4)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_7.1.0.4414_Release.exe.004) |
+| `CrealityPrint_ubuntu2004-V7.1.0.4414-x86_64-Release.AppImage (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_ubuntu2004-V7.1.0.4414-x86_64-Release.AppImage.001) |
+| `CrealityPrint_ubuntu2004-V7.1.0.4414-x86_64-Release.AppImage (part 2 of 2)` | 75.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_ubuntu2004-V7.1.0.4414-x86_64-Release.AppImage.002) |
+| `CrealityPrint_ubuntu2404-V7.1.0.4414-x86_64-Release.AppImage (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_ubuntu2404-V7.1.0.4414-x86_64-Release.AppImage.001) |
+| `CrealityPrint_ubuntu2404-V7.1.0.4414-x86_64-Release.AppImage (part 2 of 2)` | 74.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/CrealityOfficial/CrealityPrint/CrealityPrint_ubuntu2404-V7.1.0.4414-x86_64-Release.AppImage.002) |
 <!-- RELEASES_END -->
