@@ -8,9 +8,9 @@
 #MHSanaei/3x-ui
 #ircfspace/teleMirror
 #denuitt1/mhr-cfw
-2dust/v2rayN
-iampedii/WhiteDNS
-#CrealityOfficial/CrealityPrint
+#2dust/v2rayN
+#iampedii/WhiteDNS
+CrealityOfficial/CrealityPrint|ubuntu|.exe
 
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
