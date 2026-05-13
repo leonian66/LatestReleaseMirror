@@ -7,10 +7,11 @@
 #therealaleph/MasterHttpRelayVPN-RUST
 #MHSanaei/3x-ui
 #ircfspace/teleMirror
-#denuitt1/mhr-cfw
+denuitt1/mhr-cfw
 #2dust/v2rayN
 #iampedii/WhiteDNS
-CrealityOfficial/CrealityPrint|ubuntu|.exe
+#CrealityOfficial/CrealityPrint|ubuntu|.exe
+OrcaSlicer/OrcaSlicer
 
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
