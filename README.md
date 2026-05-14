@@ -157,25 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="orcaslicer--orcaslicer"></div>
+<div id="shirokhorshid--shirokhorshid-android"></div>
 
-### OrcaSlicer--OrcaSlicer
+### shirokhorshid--shirokhorshid-android
 
-🔗 [source](https://github.com/OrcaSlicer/OrcaSlicer) – [<code><small>v2.3.2</small></code>](https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.3.2)
+🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.05.14-8a28d0c</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c)
 
 | File | Size | Download |
 |------|------|----------|
-| `OrcaSlicer-Linux-flatpak_V2.3.2_aarch64.flatpak (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer-Linux-flatpak_V2.3.2_aarch64.flatpak.001) |
-| `OrcaSlicer-Linux-flatpak_V2.3.2_aarch64.flatpak (part 2 of 2)` | 19.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer-Linux-flatpak_V2.3.2_aarch64.flatpak.002) |
-| `OrcaSlicer-Linux-flatpak_V2.3.2_x86_64.flatpak (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer-Linux-flatpak_V2.3.2_x86_64.flatpak.001) |
-| `OrcaSlicer-Linux-flatpak_V2.3.2_x86_64.flatpak (part 2 of 2)` | 23.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer-Linux-flatpak_V2.3.2_x86_64.flatpak.002) |
-| `OrcaSlicer_Linux_AppImage_Ubuntu2404_V2.3.2.AppImage (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Linux_AppImage_Ubuntu2404_V2.3.2.AppImage.001) |
-| `OrcaSlicer_Linux_AppImage_Ubuntu2404_V2.3.2.AppImage (part 2 of 2)` | 28.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Linux_AppImage_Ubuntu2404_V2.3.2.AppImage.002) |
-| `OrcaSlicer_Mac_universal_V2.3.2.dmg (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Mac_universal_V2.3.2.dmg.001) |
-| `OrcaSlicer_Mac_universal_V2.3.2.dmg (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Mac_universal_V2.3.2.dmg.002) |
-| `OrcaSlicer_Mac_universal_V2.3.2.dmg (part 3 of 3)` | 34.2 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Mac_universal_V2.3.2.dmg.003) |
-| `OrcaSlicer_Windows_Installer_V2.3.2.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Windows_Installer_V2.3.2.exe.001) |
-| `OrcaSlicer_Windows_Installer_V2.3.2.exe (part 2 of 2)` | 29.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Windows_Installer_V2.3.2.exe.002) |
-| `OrcaSlicer_Windows_V2.3.2_portable.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Windows_V2.3.2_portable.zip.001) |
-| `OrcaSlicer_Windows_V2.3.2_portable.zip (part 2 of 2)` | 60.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/OrcaSlicer/OrcaSlicer/OrcaSlicer_Windows_V2.3.2_portable.zip.002) |
+| `ShirOKhorshid-2026.05.14.apk` | 23.9 MB | [⬇️ Download](https://raw.githubusercontent.com/leonian66/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.05.14.apk) |
 <!-- RELEASES_END -->
