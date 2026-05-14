@@ -4,6 +4,7 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
+#OrcaSlicer/OrcaSlicer
 #therealaleph/MasterHttpRelayVPN-RUST
 #MHSanaei/3x-ui
 #ircfspace/teleMirror
@@ -11,7 +12,6 @@
 #iampedii/WhiteDNS
 #CrealityOfficial/CrealityPrint|ubuntu|.exe
 denuitt1/mhr-cfw
-OrcaSlicer/OrcaSlicer
 shirokhorshid/shirokhorshid-android
 
 
