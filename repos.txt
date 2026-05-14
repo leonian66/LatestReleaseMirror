@@ -12,6 +12,7 @@
 #CrealityOfficial/CrealityPrint|ubuntu|.exe
 denuitt1/mhr-cfw
 OrcaSlicer/OrcaSlicer
+shirokhorshid/shirokhorshid-android
 
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
